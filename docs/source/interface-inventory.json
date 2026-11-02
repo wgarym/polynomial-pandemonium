@@ -1,0 +1,6197 @@
+[
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "a_7",
+    "children": [
+      {
+        "tag": "value",
+        "val": "0"
+      },
+      {
+        "tag": "slider",
+        "min": "(-s)",
+        "max": "s",
+        "absoluteScreenLocation": "true",
+        "width": "200",
+        "x": "8",
+        "y": "384",
+        "fixed": "true",
+        "horizontal": "true",
+        "showAlgebra": "true"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "10",
+        "type": "0",
+        "typeHidden": "1",
+        "opacity": "100"
+      },
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "true"
+      },
+      {
+        "tag": "condition",
+        "showObject": "n > 6"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "animation",
+        "type": "0",
+        "playing": "false"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "a_5",
+    "children": [
+      {
+        "tag": "value",
+        "val": "0"
+      },
+      {
+        "tag": "slider",
+        "min": "(-s)",
+        "max": "s",
+        "absoluteScreenLocation": "true",
+        "width": "200",
+        "x": "10",
+        "y": "296",
+        "fixed": "true",
+        "horizontal": "true",
+        "showAlgebra": "true"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "10",
+        "type": "0",
+        "typeHidden": "1",
+        "opacity": "100"
+      },
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "true"
+      },
+      {
+        "tag": "condition",
+        "showObject": "n > 4"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "animation",
+        "type": "0",
+        "playing": "false"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "a_0",
+    "children": [
+      {
+        "tag": "value",
+        "val": "0"
+      },
+      {
+        "tag": "slider",
+        "min": "(-s)",
+        "max": "s",
+        "absoluteScreenLocation": "true",
+        "width": "200",
+        "x": "10",
+        "y": "80",
+        "fixed": "true",
+        "horizontal": "true",
+        "showAlgebra": "true"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "10",
+        "type": "0",
+        "typeHidden": "1",
+        "opacity": "100"
+      },
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      },
+      {
+        "tag": "layer",
+        "val": "2"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "-1",
+        "y": "-6"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "animation",
+        "step": "0.1",
+        "type": "0",
+        "playing": "false"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "a_1",
+    "children": [
+      {
+        "tag": "value",
+        "val": "1"
+      },
+      {
+        "tag": "slider",
+        "min": "(-s)",
+        "max": "s",
+        "absoluteScreenLocation": "true",
+        "width": "200",
+        "x": "10",
+        "y": "124",
+        "fixed": "true",
+        "horizontal": "true",
+        "showAlgebra": "true"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "10",
+        "type": "0",
+        "typeHidden": "1",
+        "opacity": "100"
+      },
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "condition",
+        "showObject": "n > 0"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      },
+      {
+        "tag": "layer",
+        "val": "2"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "-8",
+        "y": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "animation",
+        "type": "0",
+        "playing": "false"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "a_2",
+    "children": [
+      {
+        "tag": "value",
+        "val": "0"
+      },
+      {
+        "tag": "slider",
+        "min": "(-s)",
+        "max": "s",
+        "absoluteScreenLocation": "true",
+        "width": "200",
+        "x": "10",
+        "y": "168",
+        "fixed": "true",
+        "horizontal": "true",
+        "showAlgebra": "true"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "10",
+        "type": "0",
+        "typeHidden": "1",
+        "opacity": "100"
+      },
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "true"
+      },
+      {
+        "tag": "condition",
+        "showObject": "n > 1"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      },
+      {
+        "tag": "layer",
+        "val": "2"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "21",
+        "y": "3"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "animation",
+        "type": "0",
+        "playing": "false"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "a_3",
+    "children": [
+      {
+        "tag": "value",
+        "val": "0"
+      },
+      {
+        "tag": "slider",
+        "min": "(-s)",
+        "max": "s",
+        "absoluteScreenLocation": "true",
+        "width": "200",
+        "x": "10",
+        "y": "212",
+        "fixed": "true",
+        "horizontal": "true",
+        "showAlgebra": "true"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "10",
+        "type": "0",
+        "typeHidden": "1",
+        "opacity": "100"
+      },
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "true"
+      },
+      {
+        "tag": "condition",
+        "showObject": "n > 2"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "-10",
+        "y": "-2"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "animation",
+        "type": "0",
+        "playing": "false"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "a_4",
+    "children": [
+      {
+        "tag": "value",
+        "val": "0"
+      },
+      {
+        "tag": "slider",
+        "min": "(-s)",
+        "max": "s",
+        "absoluteScreenLocation": "true",
+        "width": "200",
+        "x": "10",
+        "y": "252",
+        "fixed": "true",
+        "horizontal": "true",
+        "showAlgebra": "true"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "10",
+        "type": "0",
+        "typeHidden": "1",
+        "opacity": "100"
+      },
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "true"
+      },
+      {
+        "tag": "condition",
+        "showObject": "n > 3"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "13",
+        "y": "1"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "animation",
+        "type": "0",
+        "playing": "false"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "a_6",
+    "children": [
+      {
+        "tag": "value",
+        "val": "0"
+      },
+      {
+        "tag": "slider",
+        "min": "(-s)",
+        "max": "s",
+        "absoluteScreenLocation": "true",
+        "width": "200",
+        "x": "10",
+        "y": "340",
+        "fixed": "true",
+        "horizontal": "true",
+        "showAlgebra": "true"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "10",
+        "type": "0",
+        "typeHidden": "1",
+        "opacity": "100"
+      },
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "true"
+      },
+      {
+        "tag": "condition",
+        "showObject": "n > 5"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "animation",
+        "type": "0",
+        "playing": "false"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "f",
+    "exp": "f(x) = (a_1 * x^(1)) + (a_0 * x^(0))",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "function",
+    "label": "f",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "false",
+        "ev": "4"
+      },
+      {
+        "tag": "objColor",
+        "r": "153",
+        "g": "51",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "fixed",
+        "val": "true"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "5",
+        "type": "0",
+        "typeHidden": "1",
+        "opacity": "178"
+      },
+      {
+        "tag": "simplifyCoefficients",
+        "val": "false"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "B",
+    "exp": "(0, f(0))",
+    "type": "point",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "B",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true",
+        "ev": "4"
+      },
+      {
+        "tag": "condition",
+        "showObject": "l"
+      },
+      {
+        "tag": "objColor",
+        "r": "204",
+        "g": "102",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "-3",
+        "y": "27"
+      },
+      {
+        "tag": "labelMode",
+        "val": "2"
+      },
+      {
+        "tag": "pointSize",
+        "val": "4"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "0",
+        "y": "0",
+        "z": "1"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "Extremum",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "f(x)"
+      },
+      {
+        "tag": "output",
+        "a0": "E_1",
+        "a1": "E_2",
+        "a2": "E_3",
+        "a3": "E_4",
+        "a4": "E_5",
+        "a5": "E_6"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "E_1",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "condition",
+        "showObject": "b"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "255",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "-18",
+        "y": "-2"
+      },
+      {
+        "tag": "labelMode",
+        "val": "2"
+      },
+      {
+        "tag": "pointSize",
+        "val": "4"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "NaN",
+        "y": "NaN",
+        "z": "NaN"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "E_2",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "condition",
+        "showObject": "b"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "255",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "2"
+      },
+      {
+        "tag": "pointSize",
+        "val": "4"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "NaN",
+        "y": "NaN",
+        "z": "NaN"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "E_3",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "condition",
+        "showObject": "b"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "255",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "4",
+        "y": "-2"
+      },
+      {
+        "tag": "labelMode",
+        "val": "2"
+      },
+      {
+        "tag": "pointSize",
+        "val": "4"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "NaN",
+        "y": "NaN",
+        "z": "NaN"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "E_4",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "condition",
+        "showObject": "b"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "255",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "2"
+      },
+      {
+        "tag": "pointSize",
+        "val": "4"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "NaN",
+        "y": "NaN",
+        "z": "NaN"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "E_5",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "condition",
+        "showObject": "b"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "255",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "2"
+      },
+      {
+        "tag": "pointSize",
+        "val": "4"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "NaN",
+        "y": "NaN",
+        "z": "NaN"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "E_6",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "condition",
+        "showObject": "b"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "255",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "2"
+      },
+      {
+        "tag": "pointSize",
+        "val": "4"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "NaN",
+        "y": "NaN",
+        "z": "NaN"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "Root",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "f(x)"
+      },
+      {
+        "tag": "output",
+        "a0": "Z_{2}",
+        "a1": "Z_1",
+        "a2": "Z_3",
+        "a3": "Z_4",
+        "a4": "Z_5",
+        "a5": "Z_6",
+        "a6": "Z_7"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "Z_{2}",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true",
+        "ev": "4"
+      },
+      {
+        "tag": "condition",
+        "showObject": "a"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "100",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "-41",
+        "y": "-3"
+      },
+      {
+        "tag": "labelMode",
+        "val": "2"
+      },
+      {
+        "tag": "pointSize",
+        "val": "4"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "0",
+        "y": "0",
+        "z": "1"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "Z_1",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true",
+        "ev": "4"
+      },
+      {
+        "tag": "condition",
+        "showObject": "a"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "100",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "-23",
+        "y": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "2"
+      },
+      {
+        "tag": "pointSize",
+        "val": "4"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "NaN",
+        "y": "NaN",
+        "z": "NaN"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "Z_3",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true",
+        "ev": "4"
+      },
+      {
+        "tag": "condition",
+        "showObject": "a"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "100",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "-28",
+        "y": "-1"
+      },
+      {
+        "tag": "labelMode",
+        "val": "2"
+      },
+      {
+        "tag": "pointSize",
+        "val": "4"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "NaN",
+        "y": "NaN",
+        "z": "NaN"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "Z_4",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true",
+        "ev": "4"
+      },
+      {
+        "tag": "condition",
+        "showObject": "a"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "100",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "-29",
+        "y": "-2"
+      },
+      {
+        "tag": "labelMode",
+        "val": "2"
+      },
+      {
+        "tag": "pointSize",
+        "val": "4"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "NaN",
+        "y": "NaN",
+        "z": "NaN"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "Z_5",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true",
+        "ev": "4"
+      },
+      {
+        "tag": "condition",
+        "showObject": "a"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "100",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "2"
+      },
+      {
+        "tag": "pointSize",
+        "val": "4"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "NaN",
+        "y": "NaN",
+        "z": "NaN"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "Z_6",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true",
+        "ev": "4"
+      },
+      {
+        "tag": "condition",
+        "showObject": "a"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "100",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "2"
+      },
+      {
+        "tag": "pointSize",
+        "val": "4"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "NaN",
+        "y": "NaN",
+        "z": "NaN"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "Z_7",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true",
+        "ev": "4"
+      },
+      {
+        "tag": "condition",
+        "showObject": "a"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "100",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "2"
+      },
+      {
+        "tag": "pointSize",
+        "val": "4"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "NaN",
+        "y": "NaN",
+        "z": "NaN"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "TurningPoint",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "f(x)"
+      },
+      {
+        "tag": "output",
+        "a0": "I_{1}",
+        "a1": "I_{2}",
+        "a2": "I_3",
+        "a3": "I_4",
+        "a4": "I_5"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "I_{1}",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "condition",
+        "showObject": "j"
+      },
+      {
+        "tag": "objColor",
+        "r": "204",
+        "g": "102",
+        "b": "255",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelMode",
+        "val": "2"
+      },
+      {
+        "tag": "pointSize",
+        "val": "4"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "NaN",
+        "y": "NaN",
+        "z": "NaN"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "I_{2}",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "condition",
+        "showObject": "j"
+      },
+      {
+        "tag": "objColor",
+        "r": "204",
+        "g": "102",
+        "b": "255",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelMode",
+        "val": "2"
+      },
+      {
+        "tag": "pointSize",
+        "val": "4"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "NaN",
+        "y": "NaN",
+        "z": "NaN"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "I_3",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "condition",
+        "showObject": "j"
+      },
+      {
+        "tag": "objColor",
+        "r": "204",
+        "g": "102",
+        "b": "255",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelMode",
+        "val": "2"
+      },
+      {
+        "tag": "pointSize",
+        "val": "4"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "NaN",
+        "y": "NaN",
+        "z": "NaN"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "I_4",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "condition",
+        "showObject": "j"
+      },
+      {
+        "tag": "objColor",
+        "r": "204",
+        "g": "102",
+        "b": "255",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelMode",
+        "val": "2"
+      },
+      {
+        "tag": "pointSize",
+        "val": "4"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "NaN",
+        "y": "NaN",
+        "z": "NaN"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "I_5",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "condition",
+        "showObject": "j"
+      },
+      {
+        "tag": "objColor",
+        "r": "204",
+        "g": "102",
+        "b": "255",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelMode",
+        "val": "2"
+      },
+      {
+        "tag": "pointSize",
+        "val": "4"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "NaN",
+        "y": "NaN",
+        "z": "NaN"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "n",
+    "children": [
+      {
+        "tag": "value",
+        "val": "1"
+      },
+      {
+        "tag": "slider",
+        "min": "0",
+        "max": "7",
+        "absoluteScreenLocation": "true",
+        "width": "200",
+        "x": "10",
+        "y": "35",
+        "fixed": "true",
+        "horizontal": "true",
+        "showAlgebra": "true"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "10",
+        "type": "0",
+        "typeHidden": "1",
+        "opacity": "100"
+      },
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "255",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      },
+      {
+        "tag": "layer",
+        "val": "4"
+      },
+      {
+        "tag": "labelMode",
+        "val": "3"
+      },
+      {
+        "tag": "animation",
+        "step": "1",
+        "type": "0",
+        "playing": "false"
+      },
+      {
+        "tag": "ggbscript",
+        "onUpdate": "If(n<7,SetValue(a_7,0))\nIf(n<6,SetValue(a_6,0))\nIf(n<5,SetValue(a_5,0))\nIf(n<4,SetValue(a_4,0))\nIf(n<3,SetValue(a_3,0))\nIf(n<2,SetValue(a_2,0))\nIf(n<1,SetValue(a_1,0))\nRunClickScript[GoBtn]"
+      },
+      {
+        "tag": "caption",
+        "val": "Degree: n = %v"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "button",
+    "label": "GoBtn",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "bgColor",
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "alpha": "255"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "364",
+        "y": "748"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "animation",
+        "step": "0.1",
+        "type": "0",
+        "playing": "false"
+      },
+      {
+        "tag": "auxiliary",
+        "val": "true"
+      },
+      {
+        "tag": "ggbscript",
+        "val": "SetValue(formtext,\"a_{0}x^0\")\nSetValue(cnt,1)\nSetValue(str,\"If(a_\"+n+\"==0,SetValue(a_\"+n+\",1))\")\nExecute({str})\nIf(n>0,Repeat(n,SetValue(formtext,\"a_{\"+cnt+\"}x^\"+cnt+\"+\"+formtext),SetValue(cnt,cnt+1)))\nSetValue(ans,\"f(x)=\"+formtext)\nExecute({ans})"
+      },
+      {
+        "tag": "caption",
+        "val": "Go"
+      },
+      {
+        "tag": "font",
+        "serif": "false",
+        "sizeM": "2",
+        "size": "16",
+        "style": "0"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "ans",
+    "exp": "\"f(x)=a_{1}x^1+a_{0}x^0\"",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "text",
+    "label": "ans",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "false"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "cnt",
+    "children": [
+      {
+        "tag": "value",
+        "val": "2"
+      },
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "1"
+      },
+      {
+        "tag": "animation",
+        "type": "0",
+        "playing": "false"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "Factors",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "f(x)"
+      },
+      {
+        "tag": "output",
+        "a0": "m1"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "list",
+    "label": "m1",
+    "children": [
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "100",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "5",
+        "type": "0",
+        "typeHidden": "1"
+      },
+      {
+        "tag": "pointSize",
+        "val": "5"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "angleStyle",
+        "val": "0"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "Textfield",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "a_0"
+      },
+      {
+        "tag": "output",
+        "a0": "InputBox1"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "textfield",
+    "label": "InputBox1",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "false"
+      },
+      {
+        "tag": "condition",
+        "showObject": "n ≥ 0"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "227",
+        "y": "64"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "fixed",
+        "val": "true"
+      },
+      {
+        "tag": "auxiliary",
+        "val": "true"
+      },
+      {
+        "tag": "symbolic",
+        "val": "true"
+      },
+      {
+        "tag": "contentSerif",
+        "val": "true"
+      },
+      {
+        "tag": "length",
+        "val": "5"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "boolean",
+    "label": "b",
+    "children": [
+      {
+        "tag": "value",
+        "val": "false"
+      },
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "255",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "2"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "15",
+        "y": "465"
+      },
+      {
+        "tag": "labelMode",
+        "val": "3"
+      },
+      {
+        "tag": "checkbox",
+        "fixed": "true"
+      },
+      {
+        "tag": "caption",
+        "val": "Show Extrema"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "fac",
+    "exp": "\"\"",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "text",
+    "label": "fac",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "false"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "startPoint",
+        "x": "-3.244912751157008",
+        "y": "-0.6448603386764553",
+        "z": "1"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "IFactor",
+    "children": [
+      {
+        "tag": "casMap"
+      },
+      {
+        "tag": "input",
+        "a0": "Simplify[f(x)]"
+      },
+      {
+        "tag": "output",
+        "a0": "g"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "function",
+    "label": "g",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "false",
+        "ev": "4"
+      },
+      {
+        "tag": "objColor",
+        "r": "153",
+        "g": "51",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "fixed",
+        "val": "true"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "5",
+        "type": "0",
+        "typeHidden": "1",
+        "opacity": "178"
+      },
+      {
+        "tag": "simplifyCoefficients",
+        "val": "false"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "Textfield",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "a_1"
+      },
+      {
+        "tag": "output",
+        "a0": "InputBox2"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "textfield",
+    "label": "InputBox2",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "false"
+      },
+      {
+        "tag": "condition",
+        "showObject": "n > 0"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "227",
+        "y": "108"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "fixed",
+        "val": "true"
+      },
+      {
+        "tag": "auxiliary",
+        "val": "true"
+      },
+      {
+        "tag": "symbolic",
+        "val": "true"
+      },
+      {
+        "tag": "contentSerif",
+        "val": "true"
+      },
+      {
+        "tag": "length",
+        "val": "5"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "Textfield",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "a_2"
+      },
+      {
+        "tag": "output",
+        "a0": "InputBox3"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "textfield",
+    "label": "InputBox3",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "false"
+      },
+      {
+        "tag": "condition",
+        "showObject": "n > 1"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "227",
+        "y": "152"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "fixed",
+        "val": "true"
+      },
+      {
+        "tag": "auxiliary",
+        "val": "true"
+      },
+      {
+        "tag": "symbolic",
+        "val": "true"
+      },
+      {
+        "tag": "contentSerif",
+        "val": "true"
+      },
+      {
+        "tag": "length",
+        "val": "5"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "Textfield",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "a_3"
+      },
+      {
+        "tag": "output",
+        "a0": "InputBox4"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "textfield",
+    "label": "InputBox4",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "false"
+      },
+      {
+        "tag": "condition",
+        "showObject": "n > 2"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "227",
+        "y": "196"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "fixed",
+        "val": "true"
+      },
+      {
+        "tag": "auxiliary",
+        "val": "true"
+      },
+      {
+        "tag": "symbolic",
+        "val": "true"
+      },
+      {
+        "tag": "contentSerif",
+        "val": "true"
+      },
+      {
+        "tag": "length",
+        "val": "5"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "Textfield",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "a_4"
+      },
+      {
+        "tag": "output",
+        "a0": "InputBox5"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "textfield",
+    "label": "InputBox5",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "false"
+      },
+      {
+        "tag": "condition",
+        "showObject": "n > 3"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "227",
+        "y": "240"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "fixed",
+        "val": "true"
+      },
+      {
+        "tag": "auxiliary",
+        "val": "true"
+      },
+      {
+        "tag": "symbolic",
+        "val": "true"
+      },
+      {
+        "tag": "contentSerif",
+        "val": "true"
+      },
+      {
+        "tag": "length",
+        "val": "5"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "Textfield",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "a_5"
+      },
+      {
+        "tag": "output",
+        "a0": "InputBox6"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "textfield",
+    "label": "InputBox6",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "false"
+      },
+      {
+        "tag": "condition",
+        "showObject": "n > 4"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "227",
+        "y": "284"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "fixed",
+        "val": "true"
+      },
+      {
+        "tag": "auxiliary",
+        "val": "true"
+      },
+      {
+        "tag": "symbolic",
+        "val": "true"
+      },
+      {
+        "tag": "contentSerif",
+        "val": "true"
+      },
+      {
+        "tag": "length",
+        "val": "5"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "Textfield",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "a_6"
+      },
+      {
+        "tag": "output",
+        "a0": "InputBox7"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "textfield",
+    "label": "InputBox7",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "false"
+      },
+      {
+        "tag": "condition",
+        "showObject": "n > 5"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "227",
+        "y": "328"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "fixed",
+        "val": "true"
+      },
+      {
+        "tag": "auxiliary",
+        "val": "true"
+      },
+      {
+        "tag": "symbolic",
+        "val": "true"
+      },
+      {
+        "tag": "contentSerif",
+        "val": "true"
+      },
+      {
+        "tag": "length",
+        "val": "5"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "Textfield",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "a_7"
+      },
+      {
+        "tag": "output",
+        "a0": "InputBox8"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "textfield",
+    "label": "InputBox8",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "false"
+      },
+      {
+        "tag": "condition",
+        "showObject": "n > 6"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "227",
+        "y": "372"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "fixed",
+        "val": "true"
+      },
+      {
+        "tag": "auxiliary",
+        "val": "true"
+      },
+      {
+        "tag": "symbolic",
+        "val": "true"
+      },
+      {
+        "tag": "contentSerif",
+        "val": "true"
+      },
+      {
+        "tag": "length",
+        "val": "5"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "P_{1}",
+    "exp": "(-14.7, 8.07084)",
+    "type": "point",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "P_{1}",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "77",
+        "g": "77",
+        "b": "255",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "animation",
+        "step": "0.1",
+        "type": "1",
+        "playing": "false"
+      },
+      {
+        "tag": "pointSize",
+        "val": "5"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "-14.7",
+        "y": "8.07084",
+        "z": "1"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "P_{2}",
+    "exp": "P_{1} + (5.25, 0)",
+    "type": "point",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "P_{2}",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "68",
+        "g": "68",
+        "b": "68",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "pointSize",
+        "val": "4"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "-9.45",
+        "y": "8.07084",
+        "z": "1"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "P_{3}",
+    "exp": "P_{1} + (0, -12)",
+    "type": "point",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "P_{3}",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "68",
+        "g": "68",
+        "b": "68",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "pointSize",
+        "val": "4"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "-14.7",
+        "y": "-3.9291599999999995",
+        "z": "1"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "P_{4}",
+    "exp": "P_{1} + (5.25, -12)",
+    "type": "point",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "P_{4}",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "68",
+        "g": "68",
+        "b": "68",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "pointSize",
+        "val": "4"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "-9.45",
+        "y": "-3.9291599999999995",
+        "z": "1"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "Polygon",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "P_{1}",
+        "a1": "P_{2}",
+        "a2": "P_{4}",
+        "a3": "P_{3}"
+      },
+      {
+        "tag": "output",
+        "a0": "q1",
+        "a1": "p_{1}",
+        "a2": "p_{2}",
+        "a3": "p_{4}",
+        "a4": "p_{3}"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "polygon",
+    "label": "q1",
+    "children": [
+      {
+        "tag": "lineStyle",
+        "thickness": "5",
+        "type": "0",
+        "typeHidden": "1",
+        "opacity": "178"
+      },
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "false",
+        "ev": "4"
+      },
+      {
+        "tag": "objColor",
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "alpha": "1"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "segment",
+    "label": "p_{1}",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "false"
+      },
+      {
+        "tag": "objColor",
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "auxiliary",
+        "val": "false"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "5",
+        "type": "0",
+        "typeHidden": "1",
+        "opacity": "178"
+      },
+      {
+        "tag": "eqnStyle",
+        "style": "implicit"
+      },
+      {
+        "tag": "outlyingIntersections",
+        "val": "false"
+      },
+      {
+        "tag": "keepTypeOnTransform",
+        "val": "true"
+      },
+      {
+        "tag": "startStyle",
+        "val": "default"
+      },
+      {
+        "tag": "endStyle",
+        "val": "default"
+      },
+      {
+        "tag": "coords",
+        "x": "0",
+        "y": "5.25",
+        "z": "-42.371910000000014"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "segment",
+    "label": "p_{2}",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "false"
+      },
+      {
+        "tag": "objColor",
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "auxiliary",
+        "val": "false"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "5",
+        "type": "0",
+        "typeHidden": "1",
+        "opacity": "178"
+      },
+      {
+        "tag": "eqnStyle",
+        "style": "implicit"
+      },
+      {
+        "tag": "outlyingIntersections",
+        "val": "false"
+      },
+      {
+        "tag": "keepTypeOnTransform",
+        "val": "true"
+      },
+      {
+        "tag": "startStyle",
+        "val": "default"
+      },
+      {
+        "tag": "endStyle",
+        "val": "default"
+      },
+      {
+        "tag": "coords",
+        "x": "12",
+        "y": "0",
+        "z": "113.39999999999998"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "segment",
+    "label": "p_{4}",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "false"
+      },
+      {
+        "tag": "objColor",
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "auxiliary",
+        "val": "false"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "5",
+        "type": "0",
+        "typeHidden": "1",
+        "opacity": "178"
+      },
+      {
+        "tag": "eqnStyle",
+        "style": "implicit"
+      },
+      {
+        "tag": "outlyingIntersections",
+        "val": "false"
+      },
+      {
+        "tag": "keepTypeOnTransform",
+        "val": "true"
+      },
+      {
+        "tag": "startStyle",
+        "val": "default"
+      },
+      {
+        "tag": "endStyle",
+        "val": "default"
+      },
+      {
+        "tag": "coords",
+        "x": "0",
+        "y": "-5.25",
+        "z": "-20.62809"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "segment",
+    "label": "p_{3}",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "false"
+      },
+      {
+        "tag": "objColor",
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "auxiliary",
+        "val": "false"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "5",
+        "type": "0",
+        "typeHidden": "1",
+        "opacity": "178"
+      },
+      {
+        "tag": "eqnStyle",
+        "style": "implicit"
+      },
+      {
+        "tag": "outlyingIntersections",
+        "val": "false"
+      },
+      {
+        "tag": "keepTypeOnTransform",
+        "val": "true"
+      },
+      {
+        "tag": "startStyle",
+        "val": "default"
+      },
+      {
+        "tag": "endStyle",
+        "val": "default"
+      },
+      {
+        "tag": "coords",
+        "x": "-12",
+        "y": "0",
+        "z": "-176.4"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "Corner",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "1"
+      },
+      {
+        "tag": "output",
+        "a0": "C_{1}"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "C_{1}",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "68",
+        "g": "68",
+        "b": "68",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "pointSize",
+        "val": "4"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "-13.518734388009998",
+        "y": "-18.037878787878782",
+        "z": "1"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "Corner",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "2"
+      },
+      {
+        "tag": "output",
+        "a0": "C_{2}"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "C_{2}",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "68",
+        "g": "68",
+        "b": "68",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "pointSize",
+        "val": "4"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "17.674021648626137",
+        "y": "-18.037878787878782",
+        "z": "1"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "Corner",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "3"
+      },
+      {
+        "tag": "output",
+        "a0": "C_{3}"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "C_{3}",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "68",
+        "g": "68",
+        "b": "68",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "pointSize",
+        "val": "4"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "17.674021648626137",
+        "y": "8.074242424242417",
+        "z": "1"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "Corner",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "4"
+      },
+      {
+        "tag": "output",
+        "a0": "C_{4}"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "C_{4}",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "68",
+        "g": "68",
+        "b": "68",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "pointSize",
+        "val": "4"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "-13.518734388009998",
+        "y": "8.074242424242417",
+        "z": "1"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "k",
+    "children": [
+      {
+        "tag": "value",
+        "val": "0.245"
+      },
+      {
+        "tag": "slider",
+        "min": "0",
+        "max": "1",
+        "absoluteScreenLocation": "true",
+        "width": "200",
+        "x": "427",
+        "y": "767",
+        "fixed": "false",
+        "horizontal": "true",
+        "showAlgebra": "false"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "2",
+        "type": "0",
+        "typeHidden": "1",
+        "opacity": "100"
+      },
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "50",
+        "y": "12"
+      },
+      {
+        "tag": "labelMode",
+        "val": "1"
+      },
+      {
+        "tag": "animation",
+        "step": "0.001",
+        "type": "0",
+        "playing": "false"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "Dilate",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "C_{2}",
+        "a1": "k",
+        "a2": "C_{1}"
+      },
+      {
+        "tag": "output",
+        "a0": "C_{2}'"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "C_{2}'",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "68",
+        "g": "68",
+        "b": "68",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "pointSize",
+        "val": "4"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "-5.8765091590341445",
+        "y": "-18.037878787878782",
+        "z": "1"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "Dilate",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "C_{3}",
+        "a1": "k",
+        "a2": "C_{4}"
+      },
+      {
+        "tag": "output",
+        "a0": "C_{3}'"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "point",
+    "label": "C_{3}'",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "68",
+        "g": "68",
+        "b": "68",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "pointSize",
+        "val": "4"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "coords",
+        "x": "-5.8765091590341445",
+        "y": "8.074242424242417",
+        "z": "1"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "Polygon",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "C_{1}",
+        "a1": "C_{2}'",
+        "a2": "C_{3}'",
+        "a3": "C_{4}"
+      },
+      {
+        "tag": "output",
+        "a0": "q2",
+        "a1": "c_{1}",
+        "a2": "c_{2}'",
+        "a3": "c_{3}'",
+        "a4": "c_{4}"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "polygon",
+    "label": "q2",
+    "children": [
+      {
+        "tag": "lineStyle",
+        "thickness": "5",
+        "type": "0",
+        "typeHidden": "1",
+        "opacity": "178"
+      },
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "false",
+        "ev": "4"
+      },
+      {
+        "tag": "objColor",
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "alpha": "0.73"
+      },
+      {
+        "tag": "layer",
+        "val": "1"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "segment",
+    "label": "c_{1}",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "false"
+      },
+      {
+        "tag": "objColor",
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "auxiliary",
+        "val": "false"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "5",
+        "type": "0",
+        "typeHidden": "1",
+        "opacity": "178"
+      },
+      {
+        "tag": "eqnStyle",
+        "style": "implicit"
+      },
+      {
+        "tag": "outlyingIntersections",
+        "val": "false"
+      },
+      {
+        "tag": "keepTypeOnTransform",
+        "val": "true"
+      },
+      {
+        "tag": "startStyle",
+        "val": "default"
+      },
+      {
+        "tag": "endStyle",
+        "val": "default"
+      },
+      {
+        "tag": "coords",
+        "x": "0",
+        "y": "7.642225228975853",
+        "z": "137.8495323499356"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "segment",
+    "label": "c_{2}'",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "false"
+      },
+      {
+        "tag": "objColor",
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "auxiliary",
+        "val": "false"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "5",
+        "type": "0",
+        "typeHidden": "1",
+        "opacity": "178"
+      },
+      {
+        "tag": "eqnStyle",
+        "style": "implicit"
+      },
+      {
+        "tag": "outlyingIntersections",
+        "val": "false"
+      },
+      {
+        "tag": "keepTypeOnTransform",
+        "val": "true"
+      },
+      {
+        "tag": "startStyle",
+        "val": "default"
+      },
+      {
+        "tag": "endStyle",
+        "val": "default"
+      },
+      {
+        "tag": "coords",
+        "x": "-26.1121212121212",
+        "y": "0",
+        "z": "-153.44811946483998"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "segment",
+    "label": "c_{3}'",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "false"
+      },
+      {
+        "tag": "objColor",
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "auxiliary",
+        "val": "false"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "5",
+        "type": "0",
+        "typeHidden": "1",
+        "opacity": "178"
+      },
+      {
+        "tag": "eqnStyle",
+        "style": "implicit"
+      },
+      {
+        "tag": "outlyingIntersections",
+        "val": "false"
+      },
+      {
+        "tag": "keepTypeOnTransform",
+        "val": "true"
+      },
+      {
+        "tag": "startStyle",
+        "val": "default"
+      },
+      {
+        "tag": "endStyle",
+        "val": "default"
+      },
+      {
+        "tag": "coords",
+        "x": "0",
+        "y": "-7.642225228975853",
+        "z": "61.70517915941255"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "segment",
+    "label": "c_{4}",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "false"
+      },
+      {
+        "tag": "objColor",
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "auxiliary",
+        "val": "false"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "5",
+        "type": "0",
+        "typeHidden": "1",
+        "opacity": "178"
+      },
+      {
+        "tag": "eqnStyle",
+        "style": "implicit"
+      },
+      {
+        "tag": "outlyingIntersections",
+        "val": "false"
+      },
+      {
+        "tag": "keepTypeOnTransform",
+        "val": "true"
+      },
+      {
+        "tag": "startStyle",
+        "val": "default"
+      },
+      {
+        "tag": "endStyle",
+        "val": "default"
+      },
+      {
+        "tag": "coords",
+        "x": "26.1121212121212",
+        "y": "0",
+        "z": "353.00283097418816"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "factext",
+    "exp": "\"=\" + (LaTeX[g]) + \"\"",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "text",
+    "label": "factext",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "false",
+        "ev": "40"
+      },
+      {
+        "tag": "condition",
+        "showObject": "c"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "bgColor",
+        "r": "255",
+        "g": "192",
+        "b": "203",
+        "alpha": "255"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "fixed",
+        "val": "true"
+      },
+      {
+        "tag": "isLaTeX",
+        "val": "true"
+      },
+      {
+        "tag": "font",
+        "serif": "true",
+        "sizeM": "1",
+        "size": "0",
+        "style": "0"
+      },
+      {
+        "tag": "absoluteScreenLocation",
+        "x": "360",
+        "y": "78"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "boolean",
+    "label": "c",
+    "children": [
+      {
+        "tag": "value",
+        "val": "false"
+      },
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "255",
+        "g": "102",
+        "b": "153",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "120",
+        "y": "540"
+      },
+      {
+        "tag": "labelMode",
+        "val": "3"
+      },
+      {
+        "tag": "checkbox",
+        "fixed": "true"
+      },
+      {
+        "tag": "caption",
+        "val": "Factored Form"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "str",
+    "exp": "\"If(a_1==0,SetValue(a_1,1))\"",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "text",
+    "label": "str",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "false"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "startPoint",
+        "x": "-4.670000000000002",
+        "y": "-1.7599999999999976",
+        "z": "1"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "button",
+    "label": "button1",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "bgColor",
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "alpha": "255"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "20",
+        "y": "590"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "animation",
+        "step": "0.1",
+        "type": "0",
+        "playing": "false"
+      },
+      {
+        "tag": "fixed",
+        "val": "true"
+      },
+      {
+        "tag": "auxiliary",
+        "val": "true"
+      },
+      {
+        "tag": "ggbscript",
+        "val": "ZoomIn(-13.5,-6,9,8)"
+      },
+      {
+        "tag": "caption",
+        "val": "Standard View"
+      },
+      {
+        "tag": "font",
+        "serif": "false",
+        "sizeM": "1.4",
+        "size": "7",
+        "style": "0"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "E_{7}",
+    "children": [
+      {
+        "tag": "value",
+        "val": "1"
+      },
+      {
+        "tag": "slider",
+        "min": "-5",
+        "max": "5",
+        "absoluteScreenLocation": "true",
+        "width": "200",
+        "fixed": "false",
+        "horizontal": "true",
+        "showAlgebra": "true"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "10",
+        "type": "0",
+        "typeHidden": "1",
+        "opacity": "100"
+      },
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelMode",
+        "val": "1"
+      },
+      {
+        "tag": "animation",
+        "type": "0",
+        "playing": "false"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "ylist",
+    "exp": "{y(B), y(I_{1}), y(I_{2}), y(I_3), y(I_4), y(I_5), y(I_{1}), y(E_1), y(E_2), y(E_3), y(E_4), y(E_5), y(E_6)}",
+    "type": "list",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "list",
+    "label": "ylist",
+    "children": [
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "100",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "5",
+        "type": "0",
+        "typeHidden": "1"
+      },
+      {
+        "tag": "pointSize",
+        "val": "5"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "angleStyle",
+        "val": "0"
+      },
+      {
+        "tag": "symbolic",
+        "val": "true"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "Min",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "RemoveUndefined[ylist]"
+      },
+      {
+        "tag": "output",
+        "a0": "ymin"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "ymin",
+    "children": [
+      {
+        "tag": "value",
+        "val": "0"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "Max",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "RemoveUndefined[ylist]"
+      },
+      {
+        "tag": "output",
+        "a0": "ymax"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "ymax",
+    "children": [
+      {
+        "tag": "value",
+        "val": "0"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "xlist",
+    "exp": "{x(B), x(I_{1}), x(I_{2}), x(I_3), x(I_4), x(I_5), x(E_1), x(E_2), x(E_3), x(E_4), x(E_5), x(E_6), x(Z_1), x(Z_{2}), x(Z_3), x(Z_4), x(Z_5), x(Z_6), x(Z_7)}",
+    "type": "list",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "list",
+    "label": "xlist",
+    "children": [
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "100",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "5",
+        "type": "0",
+        "typeHidden": "1"
+      },
+      {
+        "tag": "pointSize",
+        "val": "5"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "angleStyle",
+        "val": "0"
+      },
+      {
+        "tag": "symbolic",
+        "val": "true"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "Min",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "RemoveUndefined[xlist]"
+      },
+      {
+        "tag": "output",
+        "a0": "xmin"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "xmin",
+    "children": [
+      {
+        "tag": "value",
+        "val": "0"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "Max",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "RemoveUndefined[xlist]"
+      },
+      {
+        "tag": "output",
+        "a0": "xmax"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "xmax",
+    "children": [
+      {
+        "tag": "value",
+        "val": "0"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "button",
+    "label": "button2",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "bgColor",
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "alpha": "255"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "155",
+        "y": "590"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "animation",
+        "step": "0.1",
+        "type": "0",
+        "playing": "false"
+      },
+      {
+        "tag": "fixed",
+        "val": "true"
+      },
+      {
+        "tag": "auxiliary",
+        "val": "true"
+      },
+      {
+        "tag": "ggbscript",
+        "val": "Execute({fitstr})"
+      },
+      {
+        "tag": "caption",
+        "val": "Fit View"
+      },
+      {
+        "tag": "font",
+        "serif": "false",
+        "sizeM": "1.4",
+        "size": "7",
+        "style": "0"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "If",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "xmax - xmin < 0.01",
+        "a1": "10",
+        "a2": "xmax - xmin"
+      },
+      {
+        "tag": "output",
+        "a0": "xdif"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "xdif",
+    "children": [
+      {
+        "tag": "value",
+        "val": "10"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "If",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "ymax - ymin < 0.01",
+        "a1": "10",
+        "a2": "ymax - ymin"
+      },
+      {
+        "tag": "output",
+        "a0": "ydif"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "ydif",
+    "children": [
+      {
+        "tag": "value",
+        "val": "10"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "button",
+    "label": "button3",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "bgColor",
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "alpha": "255"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "20",
+        "y": "625"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "animation",
+        "step": "0.1",
+        "type": "0",
+        "playing": "false"
+      },
+      {
+        "tag": "fixed",
+        "val": "true"
+      },
+      {
+        "tag": "auxiliary",
+        "val": "true"
+      },
+      {
+        "tag": "ggbscript",
+        "val": "Execute({zoominstr})"
+      },
+      {
+        "tag": "caption",
+        "val": "Zoom In"
+      },
+      {
+        "tag": "font",
+        "serif": "false",
+        "sizeM": "1.4",
+        "size": "7",
+        "style": "0"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "button",
+    "label": "button5",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "bgColor",
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "alpha": "255"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "105",
+        "y": "625"
+      },
+      {
+        "tag": "labelMode",
+        "val": "3"
+      },
+      {
+        "tag": "animation",
+        "step": "0.1",
+        "type": "0",
+        "playing": "false"
+      },
+      {
+        "tag": "fixed",
+        "val": "true"
+      },
+      {
+        "tag": "auxiliary",
+        "val": "true"
+      },
+      {
+        "tag": "ggbscript",
+        "val": "Execute({zoomoutstr})"
+      },
+      {
+        "tag": "caption",
+        "val": "Out"
+      },
+      {
+        "tag": "font",
+        "serif": "false",
+        "sizeM": "1.4",
+        "size": "7",
+        "style": "0"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "ans2",
+    "exp": "\"ZoomIn(-1.2,3,1.6,3)\"",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "text",
+    "label": "ans2",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "false"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "absoluteScreenLocation",
+        "x": "276",
+        "y": "482"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "xmax1",
+    "exp": "xdif / 1.5",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "xmax1",
+    "children": [
+      {
+        "tag": "value",
+        "val": "6.666666666666667"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "ymax1",
+    "exp": "ydif / 1.5",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "ymax1",
+    "children": [
+      {
+        "tag": "value",
+        "val": "6.666666666666667"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "xmin1",
+    "exp": "(-(xdif / 1.5))",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "xmin1",
+    "children": [
+      {
+        "tag": "value",
+        "val": "-6.666666666666667"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "ymin1",
+    "exp": "(-(ydif / 1.5))",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "ymin1",
+    "children": [
+      {
+        "tag": "value",
+        "val": "-6.666666666666667"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "xmin2",
+    "exp": "xmin - xdif",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "xmin2",
+    "children": [
+      {
+        "tag": "value",
+        "val": "-10"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "d",
+    "exp": "(xmax * 2)",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "d",
+    "children": [
+      {
+        "tag": "value",
+        "val": "0"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "e",
+    "exp": "(xmax * 2)",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "e",
+    "children": [
+      {
+        "tag": "value",
+        "val": "0"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "xmax2",
+    "exp": "xmax + xdif / 3",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "xmax2",
+    "children": [
+      {
+        "tag": "value",
+        "val": "3.3333333333333335"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "ymin2",
+    "exp": "ymin - ydif / 3",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "ymin2",
+    "children": [
+      {
+        "tag": "value",
+        "val": "-3.3333333333333335"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "i",
+    "exp": "(ymax * 2)",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "i",
+    "children": [
+      {
+        "tag": "value",
+        "val": "0"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "ymax2",
+    "exp": "ymax + (0.75 * ydif)",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "ymax2",
+    "children": [
+      {
+        "tag": "value",
+        "val": "7.5"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "fitstr",
+    "exp": "\"ZoomIn(\" + (Min[xmin1, xmin2]) + \",\" + (Min[ymin1, ymin2]) + \",\" + (Max[xmax1, xmax2]) + \",\" + (Max[ymax1, ymax2]) + \")\"",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "text",
+    "label": "fitstr",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "false"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "absoluteScreenLocation",
+        "x": "482",
+        "y": "690"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "boolean",
+    "label": "j",
+    "children": [
+      {
+        "tag": "value",
+        "val": "false"
+      },
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "153",
+        "g": "102",
+        "b": "255",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "15",
+        "y": "495"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "checkbox",
+        "fixed": "true"
+      },
+      {
+        "tag": "caption",
+        "val": "Show Inflection Points"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "RemoveUndefined",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "{x(Z_1), x(Z_{2}), x(Z_3), x(Z_4), x(Z_5), (x(Z_6) * x(Z_7))}"
+      },
+      {
+        "tag": "output",
+        "a0": "zlist"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "list",
+    "label": "zlist",
+    "children": [
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "100",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "5",
+        "type": "0",
+        "typeHidden": "1"
+      },
+      {
+        "tag": "pointSize",
+        "val": "5"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "angleStyle",
+        "val": "0"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "Unique",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "zlist"
+      },
+      {
+        "tag": "output",
+        "a0": "rtlist"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "list",
+    "label": "rtlist",
+    "children": [
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "100",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "5",
+        "type": "0",
+        "typeHidden": "1"
+      },
+      {
+        "tag": "pointSize",
+        "val": "5"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "angleStyle",
+        "val": "0"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "Frequency",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "zlist"
+      },
+      {
+        "tag": "output",
+        "a0": "explist"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "list",
+    "label": "explist",
+    "children": [
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "100",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "5",
+        "type": "0",
+        "typeHidden": "1"
+      },
+      {
+        "tag": "pointSize",
+        "val": "5"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "angleStyle",
+        "val": "0"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "Length",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "rtlist"
+      },
+      {
+        "tag": "output",
+        "a0": "nrts"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "nrts",
+    "children": [
+      {
+        "tag": "value",
+        "val": "1"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "j_1",
+    "exp": "j_1(x) = x - 2",
+    "type": "function",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "function",
+    "label": "j_1",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "false"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "255",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "animation",
+        "step": "0.1",
+        "type": "0",
+        "playing": "false"
+      },
+      {
+        "tag": "fixed",
+        "val": "true"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "5",
+        "type": "0",
+        "typeHidden": "1",
+        "opacity": "178"
+      },
+      {
+        "tag": "simplifyCoefficients",
+        "val": "false"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "Factor",
+    "children": [
+      {
+        "tag": "casMap"
+      },
+      {
+        "tag": "input",
+        "a0": "Simplify[f(x)]"
+      },
+      {
+        "tag": "output",
+        "a0": "h"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "function",
+    "label": "h",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "false",
+        "ev": "4"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "255",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "fixed",
+        "val": "true"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "5",
+        "type": "0",
+        "typeHidden": "1",
+        "opacity": "178"
+      },
+      {
+        "tag": "simplifyCoefficients",
+        "val": "false"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "j_2",
+    "exp": "j_2(x) = (a_2 * ((x - 0.6) * (x - 1.6)))",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "function",
+    "label": "j_2",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "false",
+        "ev": "4"
+      },
+      {
+        "tag": "objColor",
+        "r": "255",
+        "g": "85",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "fixed",
+        "val": "true"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "5",
+        "type": "0",
+        "typeHidden": "1",
+        "opacity": "178"
+      },
+      {
+        "tag": "simplifyCoefficients",
+        "val": "false"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "text2",
+    "exp": "\"=\" + j_2 + \"\"",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "text",
+    "label": "text2",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "false",
+        "ev": "40"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "startPoint",
+        "x": "-0.5407020164301717",
+        "y": "2.5152354570637163",
+        "z": "1"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "faclist1",
+    "exp": "\"j_2(x)=\" + (LaTeX[\"a_\" + n + ((\"*(\" * If[nrts < 1, \"\", \"(x\" + (If[Element[rtlist, 1] ≟ 0, \"\", If[Element[rtlist, 1] > 0, \"\", \"+\"] + ((-Element[rtlist, 1]))]) + \")\"])) + (If[nrts < 2, \"\", \"(x\" + (If[Element[rtlist, 2] ≟ 0, \"\", If[Element[rtlist, 2] > 0, \"\", \"+\"] + ((-Element[rtlist, 2]))]) + \")\"]) + \")\"]) + \"\"",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "text",
+    "label": "faclist1",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "false"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "isLaTeX",
+        "val": "true"
+      },
+      {
+        "tag": "font",
+        "serif": "false",
+        "sizeM": "1",
+        "size": "0",
+        "style": "0"
+      },
+      {
+        "tag": "absoluteScreenLocation",
+        "x": "129",
+        "y": "677"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "boolean",
+    "label": "yzoom",
+    "children": [
+      {
+        "tag": "value",
+        "val": "true"
+      },
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "155",
+        "y": "620"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "checkbox",
+        "fixed": "true"
+      },
+      {
+        "tag": "caption",
+        "val": "V"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "boolean",
+    "label": "xzoom",
+    "children": [
+      {
+        "tag": "value",
+        "val": "true"
+      },
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "210",
+        "y": "620"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "checkbox",
+        "fixed": "true"
+      },
+      {
+        "tag": "caption",
+        "val": "H"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "zoominstr",
+    "exp": "\"ZoomIn(\" + ((x(C_{1}) * If[xzoom, 2, 1])) + \",\" + ((y(C_{1}) * If[yzoom, 2, 1])) + \",\" + ((x(C_{3}) * If[xzoom, 2, 1])) + \",\" + ((y(C_{3}) * If[yzoom, 2, 1])) + \")\"",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "text",
+    "label": "zoominstr",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "false",
+        "ev": "8"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "startPoint",
+        "x": "-4.781733733594779",
+        "y": "-454.6845320598684",
+        "z": "1"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "zoomoutstr",
+    "exp": "\"ZoomIn(\" + ((x(C_{1}) * If[xzoom, 1 / 2, 1])) + \",\" + ((y(C_{1}) * If[yzoom, 1 / 2, 1])) + \",\" + ((x(C_{3}) * If[xzoom, 1 / 2, 1])) + \",\" + ((y(C_{3}) * If[yzoom, 1 / 2, 1])) + \")\"",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "text",
+    "label": "zoomoutstr",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "false",
+        "ev": "40"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "startPoint",
+        "x": "-3.5980964444984327",
+        "y": "-457.85717779977875",
+        "z": "1"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "button",
+    "label": "button4",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "bgColor",
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "alpha": "255"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "20",
+        "y": "400"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "animation",
+        "step": "0.1",
+        "type": "0",
+        "playing": "false"
+      },
+      {
+        "tag": "fixed",
+        "val": "true"
+      },
+      {
+        "tag": "auxiliary",
+        "val": "true"
+      },
+      {
+        "tag": "ggbscript",
+        "val": "SetValue(a_0,0)\nSetValue(a_1,0)\nSetValue(a_2,0)\nSetValue(a_3,0)\nSetValue(a_4,0)\nSetValue(a_5,0)\nSetValue(a_6,0)\nSetValue(a_7,0)\nExecute({\"SetValue(a_\"+n+\",1)\"})"
+      },
+      {
+        "tag": "caption",
+        "val": "Min Poly"
+      },
+      {
+        "tag": "font",
+        "serif": "false",
+        "sizeM": "1.4",
+        "size": "7",
+        "style": "0"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "boolean",
+    "label": "a",
+    "children": [
+      {
+        "tag": "value",
+        "val": "false"
+      },
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "102",
+        "b": "51",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "15",
+        "y": "435"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "checkbox",
+        "fixed": "true"
+      },
+      {
+        "tag": "caption",
+        "val": "Show Zeros"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "button",
+    "label": "button6",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "bgColor",
+        "r": "255",
+        "g": "255",
+        "b": "255",
+        "alpha": "255"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "120",
+        "y": "400"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "animation",
+        "step": "0.1",
+        "type": "0",
+        "playing": "false"
+      },
+      {
+        "tag": "fixed",
+        "val": "true"
+      },
+      {
+        "tag": "auxiliary",
+        "val": "true"
+      },
+      {
+        "tag": "ggbscript",
+        "val": "SetValue(a_0,Element(coefflist,n+1))\nIf(n>0,SetValue(a_1,Element(coefflist,n)))\nIf(n>1,SetValue(a_2,Element(coefflist,n-1)))\nIf(n>2,SetValue(a_3,Element(coefflist,n-2)))\nIf(n>3,SetValue(a_4,Element(coefflist,n-3)))\nIf(n>4,SetValue(a_5,Element(coefflist,n-4)))\nIf(n>5,SetValue(a_6,Element(coefflist,n-5)))\nIf(n>6,SetValue(a_7,Element(coefflist,n-6)))\nExecute({fitstr})"
+      },
+      {
+        "tag": "caption",
+        "val": "Max Poly"
+      },
+      {
+        "tag": "font",
+        "serif": "false",
+        "sizeM": "1.4",
+        "size": "7",
+        "style": "0"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "q",
+    "exp": "q(x) = (((((((x - 1) * If[n > 1, x + 2, 1]) * If[n > 2, x - 3, 1]) * If[n > 3, x + 4, 1]) * If[n > 4, x - 5, 1]) * If[n > 5, x + 6, 1]) * If[n > 6, x - 7, 1])",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "function",
+    "label": "q",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "false",
+        "ev": "4"
+      },
+      {
+        "tag": "objColor",
+        "r": "153",
+        "g": "51",
+        "b": "255",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "fixed",
+        "val": "true"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "5",
+        "type": "0",
+        "typeHidden": "1",
+        "opacity": "178"
+      },
+      {
+        "tag": "simplifyCoefficients",
+        "val": "false"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "Coefficients",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "Simplify[q(x)]"
+      },
+      {
+        "tag": "output",
+        "a0": "coefflist"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "list",
+    "label": "coefflist",
+    "children": [
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "100",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "5",
+        "type": "0",
+        "typeHidden": "1"
+      },
+      {
+        "tag": "pointSize",
+        "val": "5"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "angleStyle",
+        "val": "0"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "If",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "Min[coefflist] < -20",
+        "a1": "Min[coefflist]",
+        "a2": "-20"
+      },
+      {
+        "tag": "output",
+        "a0": "s_1"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "s_1",
+    "children": [
+      {
+        "tag": "value",
+        "val": "-20"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "s",
+    "exp": "(1.2 * Max[{abs(Min[coefflist]), abs(Max[coefflist]), 10}])",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "s",
+    "children": [
+      {
+        "tag": "value",
+        "val": "12"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      }
+    ]
+  },
+  {
+    "tag": "command",
+    "name": "If",
+    "children": [
+      {
+        "tag": "input",
+        "a0": "Max[coefflist] > 20",
+        "a1": "Max[coefflist]",
+        "a2": "10"
+      },
+      {
+        "tag": "output",
+        "a0": "s_2"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "numeric",
+    "label": "s_2",
+    "children": [
+      {
+        "tag": "value",
+        "val": "10"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "boolean",
+    "label": "simp",
+    "children": [
+      {
+        "tag": "value",
+        "val": "false"
+      },
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "15",
+        "y": "540"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "checkbox",
+        "fixed": "true"
+      },
+      {
+        "tag": "caption",
+        "val": "Simplify"
+      }
+    ]
+  },
+  {
+    "tag": "element",
+    "type": "boolean",
+    "label": "l",
+    "children": [
+      {
+        "tag": "value",
+        "val": "false"
+      },
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "true"
+      },
+      {
+        "tag": "objColor",
+        "r": "204",
+        "g": "102",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelOffset",
+        "x": "148",
+        "y": "434"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "checkbox",
+        "fixed": "true"
+      },
+      {
+        "tag": "caption",
+        "val": "y-intercept"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "text4",
+    "exp": "\"\" + C_{1} + \"\" + C_{2} + \"\" + C_{2}' + \"\" + C_{4} + \"\" + C_{3} + \"\" + C_{3}' + \"\"",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "text",
+    "label": "text4",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "false",
+        "ev": "40"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "startPoint",
+        "x": "-3.9300000000000024",
+        "y": "-3.370000000000005",
+        "z": "1"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "alist",
+    "exp": "{a_1, a_2, a_3, a_4, a_5, a_6, a_7}",
+    "type": "list",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "list",
+    "label": "alist",
+    "children": [
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "100",
+        "b": "0",
+        "alpha": "0.10000000149011612"
+      },
+      {
+        "tag": "lineStyle",
+        "thickness": "5",
+        "type": "0",
+        "typeHidden": "1"
+      },
+      {
+        "tag": "pointSize",
+        "val": "5"
+      },
+      {
+        "tag": "pointStyle",
+        "val": "0"
+      },
+      {
+        "tag": "angleStyle",
+        "val": "0"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "exptext",
+    "exp": "\"\" + (LaTeX[If[n ≥ 7, \"\" + a_7 + \"x^7\", \"\"]]) + \"\" + (LaTeX[If[n ≥ 7, If[a_6 < 0, \"-\", \"+\"], \"\"]]) + \"\" + (LaTeX[If[n ≟ 6 ∧ a_6 < 0, \"-\", \"\"]]) + \"\" + (LaTeX[If[n ≥ 6, \"\" + (abs(a_6)) + \"x^6\", \"\"]]) + \"\" + (LaTeX[If[n ≥ 6, If[a_5 < 0, \"-\", \"+\"], \"\"]]) + \"\" + (LaTeX[If[n ≟ 5 ∧ a_5 < 0, \"-\", \"\"]]) + \"\" + (LaTeX[If[n ≥ 5, \"\" + (abs(a_5)) + \"x^5\", \"\"]]) + \"\" + (LaTeX[If[n ≥ 5, If[a_4 < 0, \"-\", \"+\"], \"\"]]) + \"\" + (LaTeX[If[n ≟ 4 ∧ a_4 < 0, \"-\", \"\"]]) + \"\" + (LaTeX[If[n ≥ 4, \"\" + (abs(a_4)) + \"x^4\", \"\"]]) + \"\" + (LaTeX[If[n ≥ 4, If[a_3 < 0, \"-\", \"+\"], \"\"]]) + \"\" + (LaTeX[If[n ≟ 3 ∧ a_3 < 0, \"-\", \"\"]]) + \"\" + (LaTeX[If[n ≥ 3, \"\" + (abs(a_3)) + \"x^3\", \"\"]]) + \"\" + (LaTeX[If[n ≥ 3, If[a_2 < 0, \"-\", \"+\"], \"\"]]) + \"\" + (LaTeX[If[n ≟ 2 ∧ a_2 < 0, \"-\", \"\"]]) + \"\" + (LaTeX[If[n ≥ 2, \"\" + (abs(a_2)) + \"x^2\", \"\"]]) + \"\" + (LaTeX[If[n ≥ 1, If[a_1 < 0, \"-\", If[n > 1, \"+\", \"\"]], \"\"]]) + \"\" + (LaTeX[If[n ≥ 1, \"\" + (abs(a_1)) + \"x^1\", \"\"]]) + \"\" + (LaTeX[If[a_0 < 0, \"-\", If[n ≟ 0, \"\", \"+\"]]]) + \"\" + (LaTeX[Text[abs(a_0)] + \"x^0\"]) + \"\"",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "text",
+    "label": "exptext",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "false",
+        "ev": "8"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "isLaTeX",
+        "val": "true"
+      },
+      {
+        "tag": "font",
+        "serif": "true",
+        "sizeM": "1",
+        "size": "0",
+        "style": "0"
+      },
+      {
+        "tag": "startPoint",
+        "x": "-3.546860356138713",
+        "y": "-2.486957421848043",
+        "z": "1"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "simptext",
+    "exp": "\"\" + (LaTeX[If[n ≥ 7 ∧ a_7 ≠ 0, \"\" + (If[a_7 ≟ -1, \"-\", a_7 ≠ 1, Text[a_7], \"\"]) + \"x^7\", \"\"]]) + \"\" + (LaTeX[If[n ≥ 6 ∧ a_6 ≠ 0 ∧ Sum[abs(Take[alist, 7, 7])] ≟ 0, If[a_6 ≟ -1, \"-\", a_6 ≟ 1, \"\", Text[a_6]], \"\"]]) + \"\" + (LaTeX[If[n ≥ 6 ∧ a_6 ≠ 0 ∧ Sum[abs(Take[alist, 7, 7])] > 0, If[a_6 > 0, \"+\", a_6 < 0, \"-\", \"\"] + (If[abs(a_6) ≠ 1, Text[abs(a_6)], \"\"])]]) + \"\" + (LaTeX[If[n ≥ 6 ∧ a_6 ≠ 0, \"x^6\", \"\"]]) + \"\" + (LaTeX[If[n ≥ 5 ∧ a_5 ≠ 0 ∧ Sum[abs(Take[alist, 6, 7])] ≟ 0, If[a_5 ≟ -1, \"-\", a_5 ≟ 1, \"\", Text[a_5]], \"\"]]) + \"\" + (LaTeX[If[n ≥ 5 ∧ a_5 ≠ 0 ∧ Sum[abs(Take[alist, 6, 7])] > 0, If[a_5 > 0, \"+\", a_5 < 0, \"-\", \"\"] + (If[abs(a_5) ≠ 1, Text[abs(a_5)], \"\"])]]) + \"\" + (LaTeX[If[n ≥ 5 ∧ a_5 ≠ 0, \"x^5\", \"\"]]) + \"\" + (LaTeX[If[n ≥ 4 ∧ a_4 ≠ 0 ∧ Sum[abs(Take[alist, 5, 7])] ≟ 0, If[a_4 ≟ -1, \"-\", a_4 ≟ 1, \"\", Text[a_4]], \"\"]]) + \"\" + (LaTeX[If[n ≥ 4 ∧ a_4 ≠ 0 ∧ Sum[abs(Take[alist, 5, 7])] > 0, If[a_4 > 0, \"+\", a_4 < 0, \"-\", \"\"] + (If[abs(a_4) ≠ 1, Text[abs(a_4)], \"\"])]]) + \"\" + (LaTeX[If[n ≥ 4 ∧ a_4 ≠ 0, \"x^4\", \"\"]]) + \"\" + (LaTeX[If[n ≥ 3 ∧ a_3 ≠ 0 ∧ Sum[abs(Take[alist, 4, 7])] ≟ 0, If[a_3 ≟ -1, \"-\", a_3 ≟ 1, \"\", Text[a_3]], \"\"]]) + \"\" + (LaTeX[If[n ≥ 3 ∧ a_3 ≠ 0 ∧ Sum[abs(Take[alist, 4, 7])] > 0, If[a_3 > 0, \"+\", a_3 < 0, \"-\", \"\"] + (If[abs(a_3) ≠ 1, Text[abs(a_3)], \"\"])]]) + \"\" + (LaTeX[If[n ≥ 3 ∧ a_3 ≠ 0, \"x^3\", \"\"]]) + \"\" + (LaTeX[If[n ≥ 2 ∧ a_2 ≠ 0 ∧ Sum[abs(Take[alist, 3, 7])] ≟ 0, If[a_2 ≟ -1, \"-\", a_2 ≟ 1, \"\", Text[a_2]], \"\"]]) + \"\" + (LaTeX[If[n ≥ 2 ∧ a_2 ≠ 0 ∧ Sum[abs(Take[alist, 3, 7])] > 0, If[a_2 > 0, \"+\", a_2 < 0, \"-\", \"\"] + (If[abs(a_2) ≠ 1, Text[abs(a_2)], \"\"])]]) + \"\" + (LaTeX[If[n ≥ 2 ∧ a_2 ≠ 0, \"x^2\", \"\"]]) + \"\" + (LaTeX[If[n ≥ 1 ∧ a_1 ≠ 0 ∧ Sum[abs(Take[alist, 2, 7])] ≟ 0, If[a_1 ≟ -1, \"-\", a_1 ≟ 1, \"\", Text[a_1]], \"\"]]) + \"\" + (LaTeX[If[n ≥ 1 ∧ a_1 ≠ 0 ∧ Sum[abs(Take[alist, 2, 7])] > 0, If[a_1 > 0, \"+\", a_1 < 0, \"-\", \"\"] + (If[abs(a_1) ≠ 1, Text[abs(a_1)], \"\"])]]) + \"\" + (LaTeX[If[n ≥ 1 ∧ a_1 ≠ 0, \"x\", \"\"]]) + \"\" + (LaTeX[If[a_0 ≠ 0 ∧ Sum[abs(Take[alist, 1, 7])] ≟ 0, If[a_0 ≟ -1, \"-\", a_0 ≟ 1, \"\", Text[a_0]], \"\"]]) + \"\" + (LaTeX[If[a_0 ≠ 0 ∧ Sum[abs(Take[alist, 1, 7])] > 0, If[a_0 > 0, \"+\", a_0 < 0, \"-\", \"\"] + (Text[abs(a_0)])]]) + \"\" + (LaTeX[If[Sum[abs(alist)] ≟ 0 ∧ (a_0 ≟ 0 ∨ abs(a_0) ≟ 1), Text[abs(a_0)], \"\"]]) + \"\"",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "text",
+    "label": "simptext",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "false",
+        "ev": "8"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "3"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "isLaTeX",
+        "val": "true"
+      },
+      {
+        "tag": "font",
+        "serif": "true",
+        "sizeM": "1",
+        "size": "0",
+        "style": "0"
+      },
+      {
+        "tag": "startPoint",
+        "x": "-3.5543580131209116",
+        "y": "-1.0474777448071202",
+        "z": "1"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "text3",
+    "exp": "\"=\" + (LaTeX[If[¬simp, exptext, simptext]]) + \"\"",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "text",
+    "label": "text3",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "false",
+        "ev": "8"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "bgColor",
+        "r": "192",
+        "g": "192",
+        "b": "192",
+        "alpha": "255"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "fixed",
+        "val": "true"
+      },
+      {
+        "tag": "isLaTeX",
+        "val": "true"
+      },
+      {
+        "tag": "font",
+        "serif": "true",
+        "sizeM": "1",
+        "size": "0",
+        "style": "0"
+      },
+      {
+        "tag": "absoluteScreenLocation",
+        "x": "359",
+        "y": "46"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "formtext",
+    "exp": "\"a_{1}x^1+a_{0}x^0\"",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "text",
+    "label": "formtext",
+    "children": [
+      {
+        "tag": "show",
+        "object": "false",
+        "label": "false"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "layer",
+        "val": "4"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "startPoint",
+        "x": "-2.2500000000000053",
+        "y": "1",
+        "z": "1"
+      }
+    ]
+  },
+  {
+    "tag": "expression",
+    "label": "text1",
+    "exp": "\"f(x)=\" + (LaTeX[formtext]) + \"\"",
+    "children": []
+  },
+  {
+    "tag": "element",
+    "type": "text",
+    "label": "text1",
+    "children": [
+      {
+        "tag": "show",
+        "object": "true",
+        "label": "false",
+        "ev": "8"
+      },
+      {
+        "tag": "objColor",
+        "r": "0",
+        "g": "0",
+        "b": "0",
+        "alpha": "0"
+      },
+      {
+        "tag": "bgColor",
+        "r": "192",
+        "g": "192",
+        "b": "192",
+        "alpha": "255"
+      },
+      {
+        "tag": "layer",
+        "val": "0"
+      },
+      {
+        "tag": "labelMode",
+        "val": "0"
+      },
+      {
+        "tag": "fixed",
+        "val": "true"
+      },
+      {
+        "tag": "isLaTeX",
+        "val": "true"
+      },
+      {
+        "tag": "font",
+        "serif": "true",
+        "sizeM": "1",
+        "size": "0",
+        "style": "0"
+      },
+      {
+        "tag": "absoluteScreenLocation",
+        "x": "318",
+        "y": "11"
+      }
+    ]
+  }
+]

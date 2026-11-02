@@ -1,0 +1,21 @@
+{
+  "archive": "polynomial-pandemonium-cloudflare.zip",
+  "sha256": "f18bbb878579cc2c71344a1779de141d0909be8009b1e59f3e6bfb744ce37350",
+  "files": [
+    "assets/factor.worker-Dz8kxKQM.js",
+    "assets/index-BuFvbIfZ.css",
+    "assets/index-C3-8pWIb.js",
+    "index.html"
+  ],
+  "project": "polynomial-pandemonium",
+  "url": "https://polynomial-pandemonium.pages.dev/",
+  "status": "deployed",
+  "verified": [
+    "HTTPS app load",
+    "degree-seven Max Poly",
+    "factoring worker",
+    "feature labels",
+    "X-only scaling",
+    "Fit View"
+  ]
+}

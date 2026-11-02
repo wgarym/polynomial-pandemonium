@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.DS_Store
+
+deployment/*.zip
+
+.pnpm-store/
+
+.env
+.env.*
+!.env.example
+.wrangler/
+docs/*preview.png
+docs/cloudflare-live.png
+docs/browser-preview.png
