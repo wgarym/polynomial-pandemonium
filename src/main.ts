@@ -173,3 +173,48 @@ el('file').addEventListener('change',async()=>{
   finally{input.value='';}
 });
 controls();
+
+// Fullscreen changes only layout: retain the board and all exploration state.
+type FullscreenDocument = Document & {webkitFullscreenElement?: Element; webkitExitFullscreen?: () => void | Promise<void>};
+type FullscreenRoot = HTMLElement & {webkitRequestFullscreen?: () => void | Promise<void>};
+const fullscreenDocument=document as FullscreenDocument;
+const fullscreenRoot=document.documentElement as FullscreenRoot;
+const fullscreenButton=el<HTMLButtonElement>('fullscreen');
+let expandedFallback=false;
+const isNativeFullscreen=()=>Boolean(document.fullscreenElement||fullscreenDocument.webkitFullscreenElement);
+function syncFullscreen(){
+  const native=isNativeFullscreen(),expanded=native||expandedFallback;
+  const wasExpanded=fullscreenRoot.classList.contains('is-expanded');
+  fullscreenRoot.classList.toggle('is-expanded',expanded);
+  const label=expanded?(native?'Exit full screen':'Exit expanded view'):'Enter full screen';
+  fullscreenButton.setAttribute('aria-label',label);
+  fullscreenButton.setAttribute('aria-pressed',String(expanded));
+  fullscreenButton.title=label;
+  fullscreenButton.firstElementChild!.textContent=expanded?'↙':'⛶';
+  if(wasExpanded&&!expanded)status('Standard layout restored.');
+  if(expandedFallback)status('Expanded view (not native fullscreen). Use the lower-right exit button or Escape to return.');
+}
+fullscreenButton.addEventListener('click',async()=>{
+  try{
+    if(document.fullscreenElement)await document.exitFullscreen();
+    else if(fullscreenDocument.webkitFullscreenElement)await fullscreenDocument.webkitExitFullscreen?.();
+    else if(expandedFallback)expandedFallback=false;
+    else if(fullscreenRoot.requestFullscreen)await fullscreenRoot.requestFullscreen();
+    else if(fullscreenRoot.webkitRequestFullscreen)await fullscreenRoot.webkitRequestFullscreen();
+    else expandedFallback=true;
+  }catch{if(!isNativeFullscreen())expandedFallback=true;}
+  syncFullscreen();
+});
+for(const event of ['fullscreenchange','webkitfullscreenchange'])document.addEventListener(event,syncFullscreen);
+document.addEventListener('keydown',event=>{if(event.key==='Escape'&&expandedFallback){expandedFallback=false;syncFullscreen();}});
+let resizeFrame=0;
+new ResizeObserver(()=>{
+  cancelAnimationFrame(resizeFrame);
+  resizeFrame=requestAnimationFrame(()=>{
+    const bounds=board.getBoundingBox();
+    board.resizeContainer(el('board').clientWidth,el('board').clientHeight,true);
+    board.setBoundingBox(bounds,false);
+    updateFeatures();
+  });
+}).observe(el('board'));
+syncFullscreen();
