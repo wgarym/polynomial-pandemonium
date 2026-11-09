@@ -31,3 +31,8 @@ test('factored precision rounds roots without changing coefficients',()=>{
  assert.deepEqual(s.coefficients,original);
  assert.equal(factoredEquation(state([-2,1]),1),'= (x − 2)');
 });
+test('factored display combines scalar factors before rounding',()=>{
+ assert.equal(factoredEquation(state([-9.1,1.4]),1),'= 1.4·(x − 6.5)');
+ assert.equal(factoredEquation(state([-9.1,1.4]),0),'≈ (x − 7)');
+ assert.equal(factoredEquation(state([9.1,-1.4]),1),'= -1.4·(x − 6.5)');
+});

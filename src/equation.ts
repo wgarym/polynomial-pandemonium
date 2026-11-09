@@ -27,27 +27,31 @@ export function factoredEquation(state:State,precision?:number):string {
    return magnitude==='0'?'x':`(x ${root<0?'+':'−'} ${magnitude})`;
  };
  const numericPolynomial=(c:number[])=>equation({...state,degree:c.length-1,coefficients:c.map(v=>Number(rounded(v)))}).slice(7);
+ let scalar='1';
+ const collectScalar=(value:string|number)=>{scalar=nerdamer(`(${scalar})*(${value})`).text();};
  const factors=parts.map(part=>{
    const c=nerdamer(`coeffs(${part},x)`).text().slice(1,-1).split(',').map(s=>Number(nerdamer(s).evaluate().text({decimal:true,precision:17})));
-   if(c.length===1)return precision===undefined?pretty(part):rounded(c[0]);
-   if(c.length===2 && precision!==undefined)return (c[1]===1?'':rounded(c[1])+'·')+numericLinear(-c[0]/c[1]);
+   if(c.length===1){collectScalar(part);return '';}
+   if(c.length===2)collectScalar(c[1]);
+   if(c.length===2 && precision!==undefined)return numericLinear(-c[0]/c[1]);
    if(c.length===2) {
      const root=nerdamer(`-(${c[0]})/(${c[1]})`).text();
      const term=c[0]===0?'x':`(x ${c[0]/c[1]<0?'−':'+'} ${pretty(root.replace(/^\-/,''))})`;
-     return (c[1]===1?'':pretty(String(c[1]))+'·')+term;
+     return term;
    }
    if(precision===undefined && /^(?:x|\(.+\))\^\d+$/.test(part))return pretty(part);
    if(c.length===3) {
      const [a0,b,a]=c, d=b*b-4*a*a0;
+     if(d>=0)collectScalar(a);
      if(d>=0 && precision!==undefined) {
        const plus=(-b+Math.sqrt(d))/(2*a),minus=(-b-Math.sqrt(d))/(2*a);
-       return (a===1?'':rounded(a)+'·')+numericLinear(plus)+(d===0?'²':'·'+numericLinear(minus));
+       return numericLinear(plus)+(d===0?'²':'·'+numericLinear(minus));
      }
      if(d>=0) {
        const plus=nerdamer(`(-(${b})+sqrt((${b})^2-4*(${a})*(${a0})))/(2*(${a}))`).text();
        const minus=nerdamer(`(-(${b})-sqrt((${b})^2-4*(${a})*(${a0})))/(2*(${a}))`).text();
        const linear=(root:string)=>root==='0'?'x':`(${pretty(nerdamer(`x-(${root})`).text())})`;
-       return (a===1?'':pretty(String(a))+'·')+linear(plus)+(d===0?'²':'·'+linear(minus));
+       return linear(plus)+(d===0?'²':'·'+linear(minus));
      }
    }
    // Keep exact rational factors whenever possible; otherwise expose real factors numerically.
@@ -67,6 +71,7 @@ export function factoredEquation(state:State,precision?:number):string {
        }
        if(linear.length) {
          approximate=true;
+         if(remaining.length===1){collectScalar(remaining[0]);return linear.join('·');}
          const residualState={...state,degree:remaining.length-1,coefficients:remaining};
          const residual=precision===undefined?equation(residualState).slice(7):numericPolynomial(remaining);
          return linear.join('·')+(residual==='1'?'':`·(${residual})`);
@@ -75,5 +80,8 @@ export function factoredEquation(state:State,precision?:number):string {
    }
    return `(${precision===undefined?pretty(part):numericPolynomial(c)})`;
  });
- return (approximate?'≈ ':'= ')+factors.join('·');
+ const terms=factors.filter(Boolean);
+ const scalarText=precision===undefined?pretty(scalar):rounded(Number(nerdamer(scalar).evaluate().text({decimal:true,precision:17})));
+ if(scalarText!=='1'||terms.length===0)terms.unshift(scalarText);
+ return (approximate?'≈ ':'= ')+terms.join('·');
 }
