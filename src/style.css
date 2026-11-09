@@ -12,7 +12,7 @@ aside > p.muted{display:none}
 #app{width:min(1200px,100%)}
 html.is-expanded #app{width:100%;min-height:100dvh;padding:12px;display:flex;flex-direction:column}
 html.is-expanded header{height:auto;min-height:36px;margin-bottom:8px;justify-content:flex-end}
-html.is-expanded header>div,html.is-expanded .graph-heading>div:first-child,html.is-expanded .graph-footer>span,html.is-expanded footer>span:first-child{display:none}
+html.is-expanded header>div,html.is-expanded .graph-heading>div:first-child,html.is-expanded .graph-footer>span{display:none}
 html.is-expanded main{flex:1;height:calc(100dvh - 100px);min-height:420px}
 html.is-expanded .graph-heading{justify-content:flex-end;margin-bottom:10px}
 html.is-expanded footer{margin-top:6px;justify-content:flex-end}
